@@ -12,7 +12,6 @@
 #     shield: reviung41
 #
 ---
-// Corn Wireless
 
 include:
   - board: nice_nano_v2
